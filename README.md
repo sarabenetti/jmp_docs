@@ -1,1 +1,1 @@
-# jmp_docs
+# JM_docs
